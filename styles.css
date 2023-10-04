@@ -1,0 +1,13 @@
+#mycanvas{
+    background-color: #202124 ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+body{
+    margin: 0px;
+    
+    
+}
